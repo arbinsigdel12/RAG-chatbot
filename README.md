@@ -1,7 +1,8 @@
 # RAG-chatbot
 chatbot with Retrieval-Augmented Generation (RAG) and Google Search integration.
 
-## 🧠 Chatbot Model Comparison Table
+### 🧠 Chatbot Model Comparison Table
+# These are all the models I tested with
 
 | Model Name                          | Type / Size          | ✅ Advantages                                                                 | ❌ Disadvantages                                                            | RAG Suitability | GPU Feasibility |
 |-------------------------------------|-----------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------|------------------|
