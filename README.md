@@ -34,7 +34,7 @@ cd deep-chatbot
 
 ### 2. 🛠️ Create and Activate a Virtual Environment
 python -m venv venv<br>
-venv\Scripts\activate(for windows)<br>
+venv\Scripts\activate '''(for windows)'''<br>
 pip install -r requirements.txt<br>
 python manage.py runserver<br>
 
