@@ -33,9 +33,9 @@ git clone https://github.com/arbinsigdel12/deep-chatbot.git
 cd deep-chatbot
 
 ### 2. 🛠️ Create and Activate a Virtual Environment
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python manage.py runserver
+python -m venv venv<br>
+venv\Scripts\activate<br>
+pip install -r requirements.txt<br>
+python manage.py runserver<br>
 
 
