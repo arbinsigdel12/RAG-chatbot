@@ -29,12 +29,12 @@ chatbot with Retrieval-Augmented Generation (RAG) and Google Search integration.
 Follow these steps to set up and run the chatbot on your local machine.
 
 ### 1. Clone the Repository
-git clone https://github.com/arbinsigdel12/deep-chatbot.git
+git clone https://github.com/arbinsigdel12/deep-chatbot.git<br>
 cd deep-chatbot
 
 ### 2. 🛠️ Create and Activate a Virtual Environment
 python -m venv venv<br>
-venv\Scripts\activate<br>
+venv\Scripts\activate(for windows)<br>
 pip install -r requirements.txt<br>
 python manage.py runserver<br>
 
