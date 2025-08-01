@@ -23,3 +23,19 @@ chatbot with Retrieval-Augmented Generation (RAG) and Google Search integration.
 - **Best Overall**: `mistralai/Mistral-7B-Instruct-v0.2` – Excellent performance with RAG and fast on 3050 Ti.
 - **Best Lightweight**: `tiiuae/falcon-rw-1b` – Good fallback if memory is tight.
 - **Avoid**: `GPT2LMHeadModel`, `DialoGPT`, `Blenderbot` – Poor performance in modern chatbot/RAG setups.
+
+## 🚀 How to Run the Chatbot Project Locally
+
+Follow these steps to set up and run the chatbot on your local machine.
+
+### 1. Clone the Repository
+git clone https://github.com/arbinsigdel12/deep-chatbot.git
+cd deep-chatbot
+
+### 2. 🛠️ Create and Activate a Virtual Environment
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python manage.py runserver
+
+
