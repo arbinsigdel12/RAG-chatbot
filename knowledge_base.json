@@ -1,0 +1,814 @@
+[
+  {
+    "question": "What is the best time to visit Bali?",
+    "answer": "April to October during the dry season offers sunny days and minimal rainfall, ideal for beach activities and temple visits."
+  },
+  {
+    "question": "Do I need a visa for Thailand?",
+    "answer": "Citizens of 64+ countries (including the US/UK/EU) receive 30-day visa-free entry for tourism. Check Thailand's official immigration website for your nationality."
+  },
+  {
+    "question": "What currency is used in Japan?",
+    "answer": "Japanese Yen (¥). Credit cards are widely accepted, but carry cash for small shops and temples."
+  },
+  {
+    "question": "How far is the Eiffel Tower from the Louvre?",
+    "answer": "Approximately 3.5 km (2.2 miles). A 15-minute taxi ride or 30-minute walk along the Seine River."
+  },
+  {
+    "question": "What's the tipping etiquette in Dubai?",
+    "answer": "Tipping 10-15% is appreciated but not mandatory. Service charges are often included in bills."
+  },
+  {
+    "question": "Can I drink tap water in Singapore?",
+    "answer": "Yes, Singapore's tap water is safe to drink and meets WHO standards."
+  },
+  {
+    "question": "What vaccinations do I need for Kenya?",
+    "answer": "Yellow fever certificate is required if arriving from endemic areas. Recommended: Hepatitis A, Typhoid, Malaria prophylaxis."
+  },
+  {
+    "question": "What's the voltage in Australia?",
+    "answer": "230V/50Hz. Type I power sockets. Bring a universal adapter for non-Australian plugs."
+  },
+  {
+    "question": "How do I get from Heathrow to central London?",
+    "answer": "Take the Heathrow Express (15 mins to Paddington), Elizabeth Line, or Piccadilly Tube line (cheapest option)."
+  },
+  {
+    "question": "What to wear in religious sites in Italy?",
+    "answer": "Cover shoulders and knees. Avoid sleeveless tops/shorts in churches like St. Peter's Basilica or the Duomo."
+  },
+  {
+    "question": "Is Uber available in Mexico City?",
+    "answer": "Yes, Uber operates legally and is safer than unregulated taxis. Also use DiDi or Cabify."
+  },
+  {
+    "question": "What's the emergency number in Europe?",
+    "answer": "112 works EU-wide for police, ambulance, and fire services."
+  },
+  {
+    "question": "How long is the Great Wall of China?",
+    "answer": "Approximately 21,196 km (13,171 miles) including all branches. Most visited section: Badaling near Beijing."
+  },
+  {
+    "question": "Can I use Euros in Croatia?",
+    "answer": "Yes! Croatia adopted the Euro (€) in January 2023, replacing the Kuna."
+  },
+  {
+    "question": "What is Machu Picchu's altitude?",
+    "answer": "2,430 meters (7,972 ft). Acclimatize in Cusco (3,400m) for 2 days to avoid altitude sickness."
+  },
+  {
+    "question": "Are there direct flights to the Maldives from Europe?",
+    "answer": "Yes, airlines like British Airways, Emirates, and Qatar offer direct flights from major European hubs to Malé."
+  },
+  {
+    "question": "What is a must-try food in Vietnam?",
+    "answer": "Phở (noodle soup), Bánh mì (baguette sandwich), and fresh spring rolls. Try street food in Hanoi's Old Quarter."
+  },
+  {
+    "question": "How to get a SIM card in Turkey?",
+    "answer": "Buy from official stores (Turkcell/Vodafone) at airports or malls. Passport required. Tourist packages available."
+  },
+  {
+    "question": "Is it safe to hike alone in New Zealand?",
+    "answer": "Generally safe on marked trails. Always file an intention form at DOC offices and carry emergency beacons for remote areas."
+  },
+  {
+    "question": "What wildlife can I see in the Galápagos?",
+    "answer": "Giant tortoises, marine iguanas, blue-footed boobies, sea lions, and Darwin's finches. Snorkel with penguins!"
+  },
+  {
+    "question": "Do I need an international driver's license in Spain?",
+    "answer": "Yes, if renting a car. Required for non-EU license holders. Obtain from AAA or equivalent before departure."
+  },
+  {
+    "question": "What's the cheapest way to travel across Europe?",
+    "answer": "Budget airlines (Ryanair/EasyJet) for long distances. Use trains/buses like Eurail or FlixBus for scenic routes."
+  },
+  {
+    "question": "Can I see the Northern Lights in Iceland?",
+    "answer": "Yes! Best from September to April. Escape Reykjavik's light pollution - join guided tours to remote areas."
+  },
+  {
+    "question": "What's the legal drinking age in Canada?",
+    "answer": "18 in Alberta/Quebec/Manitoba, 19 elsewhere. ID required."
+  },
+  {
+    "question": "How to say 'thank you' in Greek?",
+    "answer": "Efharistó (Ευχαριστώ). Pronunciation: ef-ha-ree-STOH."
+  },
+  {
+    "question": "Are credit cards accepted in rural India?",
+    "answer": "Carry cash (Rupees) in small towns. Cards work in cities, but UPI mobile payments dominate locally."
+  },
+  {
+    "question": "What plugs are used in Argentina?",
+    "answer": "Type C (European) and Type I (Australian). Voltage: 220V/50Hz. Universal adapter recommended."
+  },
+  {
+    "question": "Is the Grand Canyon wheelchair accessible?",
+    "answer": "South Rim has accessible trails/viewpoints, shuttle buses, and lodges. North Rim has limited accessibility."
+  },
+  {
+    "question": "What's the time difference between New York and Paris?",
+    "answer": "Paris is 6 hours ahead of New York (UTC+1 vs UTC-5 during EST). Adjusts during daylight saving."
+  },
+  {
+    "question": "Can I rent a scooter in Bali without a license?",
+    "answer": "Illegal and dangerous. You need an international motorcycle permit. Police frequently fine tourists without one."
+  },
+  {
+    "question": "What is the dress code for Saudi Arabia?",
+    "answer": "Women: Abaya recommended (mandatory in govt buildings). Men: Avoid shorts. Modest attire required everywhere."
+  },
+  {
+    "question": "How to avoid jet lag when flying to Asia?",
+    "answer": "Hydrate, avoid alcohol, adjust sleep 3 days pre-flight. Use melatonin upon arrival. Seek morning sunlight."
+  },
+  {
+    "question": "What's the rainy season in Costa Rica?",
+    "answer": "May to November. Mornings are often sunny - afternoons bring showers. September/October are wettest."
+  },
+  {
+    "question": "Are there venomous snakes in Australia?",
+    "answer": "Yes, but attacks are rare. Wear covered shoes when hiking. If bitten: stay calm, immobilize limb, call 000."
+  },
+  {
+    "question": "How much does a gondola ride cost in Venice?",
+    "answer": "Official daytime rate: €80 for 30 mins (max 5 people). Evening surcharge: €100. Pre-book to avoid scams."
+  },
+  {
+    "question": "What is the closest airport to Niagara Falls?",
+    "answer": "Buffalo Niagara International Airport (BUF) in the US (40km away). Toronto Pearson (YYZ) is 130km away."
+  },
+  {
+    "question": "Can I visit Petra at night?",
+    "answer": "Yes! 'Petra by Night' runs Mon/Wed/Thu. Walk through the Siq lit by 1,500 candles to the Treasury. Book tickets early."
+  },
+  {
+    "question": "What is Oktoberfest?",
+    "answer": "World's largest beer festival in Munich, Germany. Runs late September to early October. Book tents 6+ months ahead."
+  },
+  {
+    "question": "Is English widely spoken in Scandinavia?",
+    "answer": "Yes, over 90% of Swedes/Danes/Norwegians speak fluent English. Learning 'takk' (thanks) is still appreciated."
+  },
+  {
+    "question": "How cold does it get in Antarctica cruises?",
+    "answer": "Summer (Dec-Feb): -2°C to 8°C (28-46°F). Wind chill makes it feel colder. Pack thermal layers."
+  },
+  {
+    "question": "What is the legal smoking age in Japan?",
+    "answer": "20 years old. Smoking banned on most streets - use designated smoking rooms or bars/restaurants."
+  },
+  {
+    "question": "Are there toilets on the Inca Trail?",
+    "answer": "Yes, at campsites (basic squat toilets). Bring toilet paper/hand sanitizer. No facilities during hiking sections."
+  },
+  {
+    "question": "What is a ryokan?",
+    "answer": "Traditional Japanese inn with tatami floors, futons, and onsen baths. Kaiseki meals served. Remove shoes indoors."
+  },
+  {
+    "question": "Can I use my phone on Mount Everest?",
+    "answer": "Limited coverage. Nepal Telecom works at Base Camp. Satellite phones recommended for emergencies."
+  },
+  {
+    "question": "How to bargain in Moroccan souks?",
+    "answer": "Start at 30-40% of asking price. Smile, be polite. Walk away if needed - vendors often lower prices."
+  },
+  {
+    "question": "What is the drinking age in Brazil?",
+    "answer": "18 years old. ID required in bars/stores."
+  },
+  {
+    "question": "Are there ATMs at Angkor Wat?",
+    "answer": "Yes, in Siem Reap town. Carry small USD bills ($1/$5) for temple entry fees and vendors."
+  },
+  {
+    "question": "How to get from Bangkok to Phuket?",
+    "answer": "Fly (1.5 hrs, multiple daily flights) or overnight bus (12-14 hrs). Trains require bus transfers."
+  },
+  {
+    "question": "What is the siesta custom in Spain?",
+    "answer": "Shops close 2-5 pm for lunch/rest. Restaurants and tourist sites remain open. Dinner starts after 8 pm."
+  },
+  {
+    "question": "Can I climb the Sydney Harbour Bridge?",
+    "answer": "Yes! BridgeClimb offers guided ascents (3.5 hrs). Dawn/twilight climbs offer best views. Book months ahead."
+  },
+  {
+    "question": "What is the entry fee for Yellowstone?",
+    "answer": "$35/private vehicle (7-day pass). America the Beautiful annual pass ($80) covers all national parks."
+  },
+  {
+    "question": "Are drones allowed in Iceland?",
+    "answer": "Restricted near airports/crowds. Never fly over people, roads, or wildlife. Check local maps for no-fly zones."
+  },
+  {
+    "question": "What is a pisco sour?",
+    "answer": "Peru/Chile's national cocktail: Pisco brandy, lime juice, syrup, egg white, and bitters. Try it in Lima!"
+  },
+  {
+    "question": "How to get from Paris to Disneyland Paris?",
+    "answer": "RER A train from central Paris (Châtelet/Gare de Lyon) to Marne-la-Vallée station (40 mins, €7.60)."
+  },
+  {
+    "question": "What is the main language in Switzerland?",
+    "answer": "German (65%), French (22%), Italian (8%), Romansh (0.5%). English widely spoken in tourist areas."
+  },
+  {
+    "question": "Can I see penguins in South Africa?",
+    "answer": "Yes! Boulders Beach near Cape Town has a colony of African penguins. Swim alongside them."
+  },
+  {
+    "question": "What is the best way to see the pyramids?",
+    "answer": "Arrive at Giza complex at 6 am to avoid crowds/heat. Hire a guide. Don't ride camels - ethical concerns."
+  },
+  {
+    "question": "Is travel insurance mandatory for Schengen visas?",
+    "answer": "Yes! Minimum €30,000 medical coverage. Must cover all Schengen countries and your entire stay."
+  },
+  {
+    "question": "What is a typical breakfast in Israel?",
+    "answer": "Shakshuka (eggs in tomato sauce), labneh (yogurt cheese), olives, salads, and fresh pita. Served in hotels."
+  },
+  {
+    "question": "How to avoid scams in Istanbul?",
+    "answer": "Ignore 'friendly' locals inviting you to bars. Use official taxis with meters. Haggle firmly in bazaars."
+  },
+  {
+    "question": "What is the currency in Egypt?",
+    "answer": "Egyptian Pound (EGP). Carry small bills for tips. USD accepted for major tours/hotels."
+  },
+  {
+    "question": "Can I visit North Korea as a tourist?",
+    "answer": "Only via government-approved tours (from China). Strict surveillance. US passports currently banned - check advisories."
+  },
+  {
+    "question": "What is the speed limit on the Autobahn?",
+    "answer": "No universal limit, but recommended 130 km/h (81 mph). Sections near cities have posted limits. Drive right, pass left."
+  },
+  {
+    "question": "Are there bears in Yosemite?",
+    "answer": "Yes, black bears. Store food in bear lockers. Never approach. Make noise on trails to avoid surprises."
+  },
+  {
+    "question": "How to greet someone in Thailand?",
+    "answer": "Wai: Press palms together at chest level and bow slightly. Don't return wais to children/service staff."
+  },
+  {
+    "question": "What is the best island for diving in Malaysia?",
+    "answer": "Sipadan (world-class walls/schooling fish). Requires permit. Stay on Mabul/Kapalai. Also try Perhentian Islands."
+  },
+  {
+    "question": "Can I use my hairdryer in South Korea?",
+    "answer": "Yes (220V/60Hz). Type C/F plugs. Most hotels provide hair dryers."
+  },
+  {
+    "question": "What is a visa on arrival?",
+    "answer": "Permission to enter granted at entry point (airport/border). Payment usually required. Not available for all nationalities."
+  },
+  {
+    "question": "How long is the Trans-Siberian Railway?",
+    "answer": "Moscow to Vladivostok: 9,289 km (5,772 miles). Takes 7+ days. Popular stopovers: Irkutsk (Lake Baikal), Ulaanbaatar."
+  },
+  {
+    "question": "Are there direct flights to Antarctica?",
+    "answer": "No commercial flights. Accessible via cruise ships from Argentina/Chile or charter flights to research stations."
+  },
+  {
+    "question": "What is the most photographed place in New York?",
+    "answer": "Times Square. Also popular: Brooklyn Bridge, Central Park, and Vessel at Hudson Yards."
+  },
+  {
+    "question": "How to get from Rome airport to city center?",
+    "answer": "Leonardo Express train to Termini Station (32 mins, €14). Terravision bus (€6) or taxi (fixed €50 to central Rome)."
+  },
+  {
+    "question": "What is the national dish of Ireland?",
+    "answer": "Irish stew (lamb/mutton, potatoes, carrots, onions). Also try soda bread and fresh seafood."
+  },
+  {
+    "question": "Can I use contactless payments on London transport?",
+    "answer": "Yes! Tap debit/credit cards or mobile wallets on Tube/buses. Caps daily fares. Cheaper than paper tickets."
+  },
+  {
+    "question": "What is the time zone in Hawaii?",
+    "answer": "Hawaii-Aleutian Standard Time (UTC-10). No daylight saving. 5-6 hours behind US East Coast."
+  },
+  {
+    "question": "Are there all-inclusive resorts in the Maldives?",
+    "answer": "Yes, many resorts offer AI packages covering meals/drinks. Check if transfers/activities are included."
+  },
+  {
+    "question": "What is the legal gambling age in Las Vegas?",
+    "answer": "21 years old. ID required at casinos/hotels."
+  },
+  {
+    "question": "How to get to Santorini from Athens?",
+    "answer": "Fly (45 mins, year-round) or ferry (5-8 hrs from Piraeus port, seasonal). Book flights early in summer."
+  },
+  {
+    "question": "What is a UNESCO World Heritage Site?",
+    "answer": "Landmarks designated by UNESCO for cultural/historical significance. Examples: Taj Mahal, Great Barrier Reef, Machu Picchu."
+  },
+  {
+    "question": "Can I see the Mona Lisa without crowds?",
+    "answer": "Arrive at Louvre opening (9 am Wed/Fri) or late Wednesday/Friday nights. Use Porte des Lions entrance."
+  },
+  {
+    "question": "What is the main airport in Istanbul?",
+    "answer": "Istanbul Airport (IST) handles international flights. Sabiha Gökçen (SAW) serves budget airlines."
+  },
+  {
+    "question": "How to get from Hong Kong to Macau?",
+    "answer": "Ferry from Hong Kong Island/Macau Ferry Terminal (1 hr, runs 24/7). Helicopter service available."
+  },
+  {
+    "question": "What is the best way to see the Amazon rainforest?",
+    "answer": "River cruises from Iquitos (Peru) or Manaus (Brazil). Eco-lodges for wildlife spotting. Hire local guides."
+  },
+  {
+    "question": "Are there dangerous animals in Costa Rica?",
+    "answer": "Few pose risks. Avoid snakes (fer-de-lance), spiders (Brazilian wandering), and jellyfish. Never touch wildlife."
+  },
+  {
+    "question": "What is the tipping culture in Japan?",
+    "answer": "Tipping is not customary and may cause confusion. Excellent service is standard. Do not tip in restaurants."
+  },
+  {
+    "question": "Can I visit Chernobyl?",
+    "answer": "Yes, via guided tours from Kyiv. Strict rules: no touching structures, long sleeves/pants required. Radiation checks on exit."
+  },
+  {
+    "question": "What is the dress code for Burj Khalifa?",
+    "answer": "Smart casual. No beachwear. At At.mosphere restaurant: collared shirts for men, no shorts/sandals."
+  },
+  {
+    "question": "How to get from Amsterdam airport to city?",
+    "answer": "NS train to Centraal Station (15 mins, €5.90). Taxis cost €45-€60. Avoid unauthorized drivers."
+  },
+  {
+    "question": "What is the rainy season in Vietnam?",
+    "answer": "Varies by region: North (May-Oct), Central (Oct-Dec), South (May-Nov). Typhoon risk July-Nov in coastal areas."
+  },
+  {
+    "question": "Are there sharks in the Great Barrier Reef?",
+    "answer": "Yes, but attacks are rare. Reef sharks are timid. Swim/snorkel in groups. Avoid dawn/dusk."
+  },
+  {
+    "question": "What is the drinking water situation in Egypt?",
+    "answer": "Tap water unsafe. Drink bottled water (check seals). Avoid ice in cheap eateries. Brush teeth with bottled water."
+  },
+  {
+    "question": "Can I use my drone in the USA?",
+    "answer": "Register with FAA if >250g. No-fly zones: national parks, airports, cities. Use B4UFLY app for restrictions."
+  },
+  {
+    "question": "What is the best way to exchange currency?",
+    "answer": "ATMs offer best rates (use bank ATMs). Avoid airport exchanges. Credit cards for large purchases. Notify your bank pre-travel."
+  },
+  {
+    "question": "How to get from Narita Airport to Tokyo?",
+    "answer": "Narita Express train to Tokyo/Shinjuku (60-90 mins, ¥3000). Limousine Bus or Keisei Skyliner to Ueno."
+  },
+  {
+    "question": "What is the voltage in India?",
+    "answer": "230V/50Hz. Plug types C/D/M. Frequent power fluctuations - use surge protectors."
+  },
+  {
+    "question": "Are there toilets on the Sahara desert tours?",
+    "answer": "Basic pit toilets at Berber camps. Bring toilet paper. No facilities during camel treks - discreet desert spots."
+  },
+  {
+    "question": "What is the most visited museum in the world?",
+    "answer": "The Louvre (Paris) with 9+ million annual visitors. Home to Mona Lisa, Venus de Milo, and 35,000+ artworks."
+  },
+  {
+    "question": "Do I need a visa for Nepal?",
+    "answer": "Yes, most nationalities require a visa. Available on arrival at Kathmandu Airport (USD 30 for 15 days, USD 50 for 30 days) or online via Nepal Immigration Portal. Bring passport photos."
+  },
+  {
+    "question": "What's the best time to trek in Nepal?",
+    "answer": "October-November (clear skies) and March-April (spring blooms). Avoid monsoon (June-August) and winter (December-February) for high-altitude treks."
+  },
+  {
+    "question": "Can I see Mount Everest from Kathmandu?",
+    "answer": "No, but you can see it on clear days from Nagarkot (32km east) or take a mountain flight from Kathmandu Airport (1-hour scenic flights available)."
+  },
+  {
+    "question": "What vaccines do I need for Nepal?",
+    "answer": "Hepatitis A, Typhoid, Tetanus. For treks: Japanese Encephalitis and Malaria prophylaxis in Terai region. Altitude sickness medication recommended."
+  },
+  {
+    "question": "Is Nepal safe for solo female travelers?",
+    "answer": "Generally safe. Avoid isolated areas at night. Dress conservatively. Use registered taxis. Join trekking groups for remote areas."
+  },
+  {
+    "question": "What currency is used in Nepal?",
+    "answer": "Nepalese Rupee (NPR). Carry cash (USD accepted in trekking areas). ATMs available in Kathmandu/Pokhara. Credit cards accepted in major hotels."
+  },
+  {
+    "question": "How to prevent altitude sickness?",
+    "answer": "Ascend slowly (max 400m/day above 3,000m), hydrate (3-4L water/day), avoid alcohol, consider Diamox. Descend immediately if symptoms worsen."
+  },
+  {
+    "question": "What's the Everest Base Camp trek duration?",
+    "answer": "12-16 days round-trip from Lukla. Includes acclimatization days. Requires moderate fitness."
+  },
+  {
+    "question": "Are there direct flights to Nepal from Europe?",
+    "answer": "Yes: Qatar Airways (via Doha), Turkish Airlines (via Istanbul), Air Arabia (via Sharjah). Direct from Delhi, Bangkok, Singapore."
+  },
+  {
+    "question": "What to eat in Nepal?",
+    "answer": "Dal Bhat (lentil rice), Momos (dumplings), Thukpa (noodle soup), Sel Roti (rice doughnut). Try Newari cuisine in Kathmandu."
+  },
+  {
+    "question": "Can I use credit cards on treks?",
+    "answer": "No. Carry NPR cash. Teahouses accept USD in Everest/Annapurna regions but give change in NPR."
+  },
+  {
+    "question": "How to get from Kathmandu to Pokhara?",
+    "answer": "Tourist bus (6-8 hrs, USD 10-20), flight (25 mins, USD 100-150), or private jeep (7 hrs, USD 120-200)."
+  },
+  {
+    "question": "What's the tipping etiquette?",
+    "answer": "Porters: USD 2-3/day, Guides: USD 5-10/day. Restaurants: 10% if service charge not included. Not mandatory but appreciated."
+  },
+  {
+    "question": "Do I need a TIMS card for trekking?",
+    "answer": "Yes! Trekking Information Management System card required for all treks. Obtained through registered agencies (USD 20)."
+  },
+  {
+    "question": "Can I charge devices on Everest trek?",
+    "answer": "Yes, but teahouses charge USD 2-5/hour. Bring solar chargers. Power cuts common - use power banks."
+  },
+  {
+    "question": "What wildlife can I see in Chitwan?",
+    "answer": "One-horned rhinos, Bengal tigers, elephants, crocodiles. Best sightings: Jeep safaris or canoe rides in Chitwan National Park."
+  },
+  {
+    "question": "Is Wi-Fi available on treks?",
+    "answer": "Everest region: Paid Wi-Fi cards (USD 5-10/hour). Annapurna: Limited free Wi-Fi in lodges. Purchase local Ncell SIM for data."
+  },
+  {
+    "question": "What's the legal drinking age?",
+    "answer": "18 years. Try local Raksi (rice wine) or Tongba (millet beer). Avoid alcohol at high altitudes."
+  },
+  {
+    "question": "How to get to Annapurna Base Camp?",
+    "answer": "Fly/drive to Pokhara → Nayapul → Trek 7-10 days via Ghorepani. Requires Annapurna Conservation Area Permit (USD 30)."
+  },
+  {
+    "question": "Are there ATMs at Everest Base Camp?",
+    "answer": "No. Last ATMs in Namche Bazaar. Withdraw extra NPR in Kathmandu."
+  },
+  {
+    "question": "What plug adapter for Nepal?",
+    "answer": "Type C/D/M sockets. 230V/50Hz. Universal adapter recommended. Voltage stabilizers useful in remote areas."
+  },
+  {
+    "question": "Can I rent trekking gear in Kathmandu?",
+    "answer": "Yes, Thamel district has shops renting sleeping bags (USD 1-2/day), down jackets, trekking poles. Buy counterfeit-proof gear."
+  },
+  {
+    "question": "What festivals should I experience?",
+    "answer": "Dashain (Sept/Oct), Tihar (Oct/Nov), Holi (March). Buddha Jayanti (May) at Swayambhunath or Lumbini."
+  },
+  {
+    "question": "Is water safe to drink?",
+    "answer": "Bottled water recommended. Use Steripen or iodine tablets for mountain streams. Avoid tap water even in cities."
+  },
+  {
+    "question": "How difficult is the Langtang Valley trek?",
+    "answer": "Moderate (7-10 days). Lower altitude than EBC. Best for cultural immersion with Tamang communities. Permit required."
+  },
+  {
+    "question": "Can I visit Tibet from Nepal?",
+    "answer": "Yes, via organized tours from Kathmandu. Requires Chinese group visa and Tibet Travel Permit. Closed during political unrest."
+  },
+  {
+    "question": "What's the emergency number?",
+    "answer": "Police: 100, Ambulance: 102. Tourist Police in Kathmandu: +977-1-4247041. Helicopter rescue: Ensure insurance covers it."
+  },
+  {
+    "question": "Are drones allowed in Nepal?",
+    "answer": "Require permit from CAAN (USD 500+). Banned in national parks without special permission. Confiscation risk."
+  },
+  {
+    "question": "What to pack for Annapurna Circuit?",
+    "answer": "Layered clothing (-10°C to 25°C), waterproof gear, broken-in boots, first-aid kit, headlamp, water purification, sun protection."
+  },
+  {
+    "question": "How to respect local culture?",
+    "answer": "No public affection. Remove shoes before entering homes/temples. Don't point with fingers. Accept items with right hand."
+  },
+  {
+    "question": "Can I do Everest Base Camp without guide?",
+    "answer": "Legally yes, but not recommended. Navigation challenges, altitude risks, and lodge bookings easier with local guides."
+  },
+  {
+    "question": "What's the cost of a teahouse trek?",
+    "answer": "USD 25-40/day (food/lodging). Budget USD 50/day including guide/porter. Luxury lodges: USD 100-300/night."
+  },
+  {
+    "question": "Where is Lumbini?",
+    "answer": "Birthplace of Buddha in southern Nepal. Accessible by flight/bus from Kathmandu (8-10 hrs). Visit Maya Devi Temple and monasteries."
+  },
+  {
+    "question": "Can I use Uber in Kathmandu?",
+    "answer": "No. Use Pathao or inDrive apps. Taxis use meters (insist on 'meter on'). Short rides: NPR 200-500."
+  },
+  {
+    "question": "What's the Lukla flight risk?",
+    "answer": "Weather cancellations common (30% in peak season). Fly early morning. Have buffer days. Helicopter alternatives available."
+  },
+  {
+    "question": "Are there leeches on treks?",
+    "answer": "Yes in monsoon (June-Sept) below 3,000m. Use salt/smoke to remove. Wear leech socks. Not dangerous but annoying."
+  },
+  {
+    "question": "How to get a SIM card?",
+    "answer": "Ncell/NTC at Kathmandu Airport. Passport + photo required. Tourist pack: NPR 1,000 (1.5GB data + calls). NTC has better mountain coverage."
+  },
+  {
+    "question": "What's the Everest Summit success rate?",
+    "answer": "Around 65% with experienced operators. Requires USD 45,000+ and 2 months. Spring (May) is main climbing season."
+  },
+  {
+    "question": "Can I volunteer in Nepal?",
+    "answer": "Yes, but avoid orphanage tourism. Legitimate options: teaching, healthcare, reconstruction. Require volunteer visa (USD 100/month)."
+  },
+  {
+    "question": "What's in Bhaktapur Durbar Square?",
+    "answer": "UNESCO site with 55-Window Palace, Nyatapola Temple, pottery squares. Entry: NPR 1,500. Best preserved medieval city."
+  },
+  {
+    "question": "How cold does Everest Base Camp get?",
+    "answer": "Day: 5°C to 10°C (April). Night: -15°C to -20°C. Winter (Dec-Feb): -25°C to -30°C with wind chill."
+  },
+  {
+    "question": "Are there hot springs in Nepal?",
+    "answer": "Yes! Tatopani near Annapurna, Jhinu Danda on ABC trek. Natural sulfur springs. Entry: NPR 100-200."
+  },
+  {
+    "question": "What permits for Manaslu trek?",
+    "answer": "Restricted area permit (USD 70-100/week), Manaslu Conservation Area Permit (USD 30), Annapurna Conservation Area Permit (USD 30)."
+  },
+  {
+    "question": "Can I see snow leopards?",
+    "answer": "Rare. Upper Mustang and Dolpo regions best. Join specialized winter treks with spotters. No guarantees."
+  },
+  {
+    "question": "How to handle trash on treks?",
+    "answer": "Carry out all non-biodegradables. Teahouses charge for disposal. Use Refill Not Landfill stations (Kathmandu/Pokhara)."
+  },
+  {
+    "question": "What's the flight weight limit to Lukla?",
+    "answer": "10kg checked + 5kg carry-on. Excess: USD 1-2/kg. Store extra luggage in Kathmandu hotels."
+  },
+  {
+    "question": "Where to buy authentic handicrafts?",
+    "answer": "Dhukuti (fair trade) in Patan, Fair Trade Group Nepal in Boudha. Avoid animal products (protected species)."
+  },
+  {
+    "question": "Is bungee jumping available?",
+    "answer": "Yes! The Last Resort (160m over Bhote Koshi River, 3hrs from Kathmandu). Also canyon swing and zip lines."
+  },
+  {
+    "question": "What's the best short trek?",
+    "answer": "Poon Hill (4-5 days). Views of Annapurna/Dhaulagiri. Starts from Nayapul near Pokhara. Moderate difficulty."
+  },
+  {
+    "question": "Can Hindus visit Pashupatinath?",
+    "answer": "Non-Hindus can view from east bank but not enter main temple. Aarti ceremonies at 6pm daily. Sacred cremation ghats."
+  },
+  {
+    "question": "How to get to Nagarkot?",
+    "answer": "Taxi (1.5hrs from Kathmandu, NPR 2,500) or bus (NPR 80, 2hrs). Sunrise views of Himalayas. Stay overnight."
+  },
+  {
+    "question": "Are there luxury mountain lodges?",
+    "answer": "Yeti Mountain Home (Everest), Ker & Downey lodges (Annapurna). USD 200-500/night with gourmet meals and heating."
+  },
+  {
+    "question": "What's the legal cannabis status?",
+    "answer": "Illegal since 1976. Severe penalties. Sadhus may smoke during Shivaratri, but tourists should avoid completely."
+  },
+  {
+    "question": "Can I raft in Nepal?",
+    "answer": "Yes! Trishuli (easy, near Kathmandu), Bhote Koshi (extreme), Karnali (multi-day). Season: Oct-Nov and Mar-Apr."
+  },
+  {
+    "question": "How much to tip a porter?",
+    "answer": "USD 3-5/day per porter (carries 15-20kg). Ensure they have proper gear. Tip personally at trek end."
+  },
+  {
+    "question": "What's the phone code for Nepal?",
+    "answer": "+977. Kathmandu area code: 1 (e.g., +977-1-xxxxxxx). Dial 00 for international calls."
+  },
+  {
+    "question": "Where to see living goddess?",
+    "answer": "Kumari at Kathmandu Durbar Square. Appears at window 3-4 times daily. Photography strictly prohibited."
+  },
+  {
+    "question": "Is malaria a risk in Chitwan?",
+    "answer": "Low risk. Use DEET repellent, wear long sleeves at dusk. Prophylaxis recommended for Terai region visits."
+  },
+  {
+    "question": "Can I bike in Kathmandu Valley?",
+    "answer": "Yes, rentals in Thamel. Recommended routes: Shivapuri Nagarjun National Park, Bungamati to Khokana. Avoid main roads."
+  },
+  {
+    "question": "What's the Everest Marathon?",
+    "answer": "World's highest marathon from EBC to Namche. Held May 29 yearly. Requires acclimatization. Registration 1 year ahead."
+  },
+  {
+    "question": "How to get to Swayambhunath?",
+    "answer": "Taxi from Thamel (NPR 300). Climb 365 steps. Entry: NPR 200. Monkeys everywhere - guard belongings!"
+  },
+  {
+    "question": "Are credit cards accepted?",
+    "answer": "Major hotels/restaurants in cities. 3-4% fee common. Cash preferred. Amex rarely accepted."
+  },
+  {
+    "question": "What's the Thamel area?",
+    "answer": "Kathmandu's tourist hub with hotels, gear shops, restaurants, bars. Safe but chaotic. Haggle for souvenirs."
+  },
+  {
+    "question": "Can I fly drones at Everest?",
+    "answer": "Strictly prohibited without CAAN permit (hard to get). Helicopters have right of way. Heavy fines."
+  },
+  {
+    "question": "What's a typical Nepali breakfast?",
+    "answer": "Chiya (spiced tea), roti (flatbread), eggs, sel roti. Western options available in tourist areas."
+  },
+  {
+    "question": "How to get to Ilam tea gardens?",
+    "answer": "Fly to Bhadrapur from Kathmandu → 4hr drive. Stay at homestays. Best season: March-April (plucking season)."
+  },
+  {
+    "question": "Is there internet in Upper Mustang?",
+    "answer": "Limited. NTC SIM may get 2G in Lo Manthang. Satellite phones recommended for remote areas."
+  },
+  {
+    "question": "What's the dress code for temples?",
+    "answer": "Cover shoulders/knees. Remove leather items. Walk clockwise around stupas. Don't point feet at shrines."
+  },
+  {
+    "question": "Can I see rhinos near Pokhara?",
+    "answer": "No. Visit Chitwan (6hrs by bus) or Bardia National Park (16hrs). Fewer tourists in Bardia."
+  },
+  {
+    "question": "What's the voltage in teahouses?",
+    "answer": "220-240V but unstable. Sockets in dining areas only. Power often 6pm-9pm. Charge power banks first."
+  },
+  {
+    "question": "How to avoid fake trekking agencies?",
+    "answer": "Book with TAAN-registered companies. Check reviews. Demand detailed contract. Never pay full amount upfront."
+  },
+  {
+    "question": "What's the main airport?",
+    "answer": "Tribhuvan International Airport (KTM). Terminal 1 for domestic flights. Arrive 3hrs early for international departures."
+  },
+  {
+    "question": "Can I visit during monsoon?",
+    "answer": "Yes for culture/rainforest treks. Landscapes lush, fewer tourists. Roads may flood. Leeches in lowlands."
+  },
+  {
+    "question": "What is the Annapurna Circuit distance?",
+    "answer": "160-230km depending on route. Thorong La Pass (5,416m) highest point. Classic route: 15-20 days."
+  },
+  {
+    "question": "Are there luxury buses to Pokhara?",
+    "answer": "Yes (Greenline, Buddha Bus). USD 25 with AC, lunch, and Wi-Fi. Departs 7am from Kantipath, Kathmandu."
+  },
+  {
+    "question": "What's the cost of a helicopter tour?",
+    "answer": "Everest Base Camp: USD 1,000-1,500/person (5-7 seats). Annapurna: USD 500-700. Shared charters available."
+  },
+  {
+    "question": "Can I see tigers in Chitwan?",
+    "answer": "Possible but rare (dense forests). Best chances: Early morning canoe safari or jeep tour in western sector."
+  },
+  {
+    "question": "What's the main language?",
+    "answer": "Nepali. English spoken in tourist areas. Learn basics: Namaste (hello), Dhanyabad (thank you)."
+  },
+  {
+    "question": "Is there a tourist tax?",
+    "answer": "No nationwide tax. Some cities charge heritage fees (e.g., Bhaktapur NPR 1,500). Included in trek permits."
+  },
+  {
+    "question": "How to get to Gosaikunda Lake?",
+    "answer": "3-day trek from Dhunche (7hrs from Kathmandu). Sacred Hindu site. Best August (Janai Purnima festival)."
+  },
+  {
+    "question": "Can I rent a motorbike?",
+    "answer": "Yes in Kathmandu/Pokhara (USD 10-20/day). International license required. Avoid night riding. Road conditions poor."
+  },
+  {
+    "question": "What's the Bagmati River ceremony?",
+    "answer": "Daily cremations at Pashupatinath. Tourist viewing platforms available. Maintain silence. Photography sensitive."
+  },
+  {
+    "question": "Are there ATMs at Annapurna Base Camp?",
+    "answer": "No. Last ATMs in Pokhara/Ghandruk. Carry NPR 20,000-30,000 cash per person."
+  },
+  {
+    "question": "What's the Lukla weather backup?",
+    "answer": "Helicopter transfer (USD 500/person) or drive to Jiri (8hrs) + trek 5 days to Lukla. Ramechhap flights in peak season."
+  },
+  {
+    "question": "How to visit Upper Mustang?",
+    "answer": "Restricted area. Fly to Jomsom → Trek with guide. Permit: USD 500/10 days. Best May-October."
+  },
+  {
+    "question": "What's a mani wall?",
+    "answer": "Stone walls carved with Buddhist mantras. Walk left of them (clockwise). Never touch or climb."
+  },
+  {
+    "question": "Can I buy oxygen for EBC?",
+    "answer": "Yes in Namche Bazaar (USD 150-200/canister). Only for emergencies. Better to acclimatize properly."
+  },
+  {
+    "question": "What's the best viewpoint in Pokhara?",
+    "answer": "World Peace Pagoda (30-min boat + 1hr hike). Sarangkot (sunrise over Annapurnas). Paragliding from Sarangkot."
+  },
+  {
+    "question": "How to get to Bandipur?",
+    "answer": "3hr drive from Pokhara. Preserved Newari town. Stay overnight for traditional architecture and mountain views."
+  },
+  {
+    "question": "Is Everest Base Camp crowded?",
+    "answer": "Peak seasons (Oct/Nov, Mar/Apr): 300-500 trekkers daily. Go late September or April for fewer people."
+  },
+  {
+    "question": "What's the phone number for tourist police?",
+    "answer": "Kathmandu: +977-1-4247041. Pokhara: +977-61-462761. 24/7 service. English speaking."
+  },
+  {
+    "question": "Can I volunteer after earthquakes?",
+    "answer": "Reconstruction projects in Sindhupalchowk/Nuwakot. Register with NGOs like All Hands and Hearts. Skills needed."
+  },
+  {
+    "question": "What's the best souvenir?",
+    "answer": "Lokta paper products, pashmina (check authenticity), singing bowls, Gurkha knife (declare for export)."
+  },
+  {
+    "question": "How to respect monasteries?",
+    "answer": "Remove shoes/hats. Don't touch murals. Ask before photographing monks. Donations appreciated."
+  },
+  {
+    "question": "Can I extend my visa?",
+    "answer": "Yes at Immigration Office in Kathmandu/Pokhara. USD 3/day (first 15 days), USD 5/day thereafter. Max 150 days/year."
+  },
+  {
+    "question": "What's the main bus station in Kathmandu?",
+    "answer": "Gongabu (New Bus Park) for tourist buses. Thamel agents book tickets with hotel pickup."
+  },
+  {
+    "question": "Are there homestays available?",
+    "answer": "Yes! Community homestays in Sirubari, Panauti, Ghalegaun. Book via Nepal Tourism Board. USD 20-30/night with meals."
+  },
+  {
+    "question": "What's the Chitwan entry fee?",
+    "answer": "Chitwan National Park: NPR 2,000/day (SAARC NPR 1,000). Safari costs extra. 7-day pass available."
+  },
+  {
+    "question": "Can I cross to India from Nepal?",
+    "answer": "Yes at Sunauli/Bhairahawa (to Varanasi), Kakarbhitta (to Darjeeling), Birgunj (to Patna). Get Indian visa in advance."
+  },
+  {
+    "question": "What's the Everest helicopter landing cost?",
+    "answer": "USD 1,200-1,800 for private charter (5 pax). Shared: USD 350-500/person. 4-hour round trip from Kathmandu."
+  },
+  {
+    "question": "How to avoid counterfeit money?",
+    "answer": "Check watermarks on NPR notes. Avoid torn bills. Get cash from ATMs or banks. USD should be crisp, post-2006 series."
+  },
+  {
+    "question": "What's a tea house?",
+    "answer": "Basic mountain lodges with dorm beds (USD 3-5) or private rooms (USD 5-15). Meals extra. Shared bathrooms."
+  },
+  {
+    "question": "Can I climb Island Peak?",
+    "answer": "Yes with climbing permit (USD 250 spring) and guide. 6,189m. Requires ice experience. Acclimatize at EBC first."
+  },
+  {
+    "question": "What's the main religion?",
+    "answer": "Hinduism (81%), Buddhism (9%). Syncretic practices common. Many Hindu-Buddhist shared sites."
+  },
+  {
+    "question": "How to get to Tilicho Lake?",
+    "answer": "Side trek from Annapurna Circuit. Highest lake (4,919m). Requires 2-day detour from Manang. Icy May-June."
+  },
+  {
+    "question": "Are there women trekking guides?",
+    "answer": "Yes! Companies like 3 Sisters Adventure offer female guides. Request when booking. Empowers local women."
+  }
+]
